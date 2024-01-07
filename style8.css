@@ -1,0 +1,30 @@
+span {
+    color: rgb(156, 107, 51);
+}
+
+h4 {
+    color: red;
+}
+
+#parent{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+#child {
+    height: 430px;
+    width: 400px;
+    border: 2px solid black;
+    border-radius: 15px;
+    padding: 10px;
+}
+
+img{
+    border-radius: 15px;
+}
+
+h6{
+    text-align: right;
+    color: blue;
+}
